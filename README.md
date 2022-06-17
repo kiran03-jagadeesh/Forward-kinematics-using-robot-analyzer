@@ -40,9 +40,9 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 6. update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
-### 06
+### 04
 ![output](ROBO.OUT2.jpg) 
-## 04
+## 06
 ![output](ROBO.OUT3.jpg) 
  
  ### PLOT 
